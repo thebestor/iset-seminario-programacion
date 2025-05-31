@@ -31,7 +31,7 @@ class Triangulo(Figura):
 
 figuras = [Cuadrado(), Circulo(), Triangulo()]
 
-for pepito in figuras:
-    print(f"{type(pepito).__name__}-->Area: {pepito.area()}")
+for figura in figuras:
+    print(f"{type(figura).__name__}-->Area: {pepito.area()}")
 
     
