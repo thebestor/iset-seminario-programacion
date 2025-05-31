@@ -1,0 +1,7 @@
+Creo que estas simples líneas de código nos permiten comprender las ventajas de la Programación Orientada a Objetos,
+donde utilizamos principios como el polimorfismo y la herencia. Estos principios nos permiten evitar la repetición 
+de código y facilitar su expansión en el futuro.
+Si bien para realizar la sintaxis correcta he utilizado la ayuda de la inteligencia artificial, el objetivo del 
+ejercicio fue comprender la manipulación de objetos aplicando estos conceptos fundamentales de la POO.
+
+sdos Nestor Vega...
